@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word of the Day</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Top Section: Word of the Day -->
+        <section class="word-section" id="wordSection">
+            <div class="word-container">
+                <h1 class="word" id="wordDisplay">Loading...</h1>
+                <p class="hint">Scroll down or press ↓ to see the meaning</p>
+            </div>
+        </section>
+
+        <!-- Bottom Section: Meaning and Footer -->
+        <section class="meaning-section" id="meaningSection">
+            <div class="meaning-container">
+                <p class="definition" id="definitionDisplay">Loading...</p>
+            </div>
+            <footer class="footer">
+                <div class="footer-content">
+                    <div class="color-info">
+                        <span class="color-label">Background Color:</span>
+                        <span class="hex-code" id="hexCode">#000000</span>
+                        <button class="copy-btn" id="copyBtn" title="Copy hex code">📋</button>
+                    </div>
+                </div>
+            </footer>
+        </section>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
+

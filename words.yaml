@@ -1,0 +1,520 @@
+words:
+  - word: "Serendipity"
+    definition: "The occurrence and development of events by chance in a happy or beneficial way."
+    date: "2025-11-04"
+    color: "#A8D8EA"
+  
+  - word: "Ephemeral"
+    definition: "Lasting for a very short time; transient."
+    date: "2025-11-05"
+    color: "#AA96DA"
+  
+  - word: "Mellifluous"
+    definition: "Having a sweet, musical, pleasant sound; honeyed."
+    date: "2025-11-06"
+    color: "#FCBAD3"
+  
+  - word: "Petrichor"
+    definition: "The pleasant earthy smell after rain."
+    date: "2025-11-07"
+    color: "#FFFFD2"
+  
+  - word: "Resilience"
+    definition: "The capacity to recover quickly from difficulties; toughness."
+    date: "2025-11-08"
+    color: "#C7CEEA"
+  
+  - word: "Accolade"
+    definition: "A tangible symbol signifying approval or distinction"
+    date: "2025-11-09"
+    color: "#B5EAD7"
+  
+  - word: "Acrimony"
+    definition: "A rough and bitter manner"
+    date: "2025-11-10"
+    color: "#FFD3A5"
+  
+  - word: "Angst"
+    definition: "An acute but unspecific feeling of anxiety"
+    date: "2025-11-11"
+    color: "#FD9853"
+  
+  - word: "Anomaly"
+    definition: "Deviation from the normal or common order or form or rule"
+    date: "2025-11-12"
+    color: "#A8E6CF"
+  
+  - word: "Antidote"
+    definition: "A remedy that stops or controls the effects of a poison"
+    date: "2025-11-13"
+    color: "#DDA0DD"
+  
+  - word: "Avant-garde"
+    definition: "Radically new or original"
+    date: "2025-11-14"
+    color: "#FFEAA7"
+  
+  - word: "Baroque"
+    definition: "Relating to an elaborately ornamented style of art and music"
+    date: "2025-11-15"
+    color: "#DFE7F2"
+  
+  - word: "Bona fide"
+    definition: "Not counterfeit or copied"
+    date: "2025-11-16"
+    color: "#F5B7B1"
+  
+  - word: "Boondoggle"
+    definition: "Work of little or no value done merely to look busy"
+    date: "2025-11-17"
+    color: "#AED6F1"
+  
+  - word: "Bourgeois"
+    definition: "Being of the property-owning class"
+    date: "2025-11-18"
+    color: "#F8BBD0"
+  
+  - word: "Bravado"
+    definition: "A swaggering show of courage"
+    date: "2025-11-19"
+    color: "#D4E6F1"
+  
+  - word: "Brogue"
+    definition: "A thick and heavy shoe"
+    date: "2025-11-20"
+    color: "#E8D5C4"
+  
+  - word: "Brusque"
+    definition: "Rudely abrupt or blunt in speech or manner"
+    date: "2025-11-21"
+    color: "#F4D1AE"
+  
+  - word: "Byzantine"
+    definition: "Of or relating to or characteristic of the Byzantine Empire or the ancient city of Byzantium"
+    date: "2025-11-22"
+    color: "#D1C4E9"
+  
+  - word: "Cacophony"
+    definition: "Loud confusing disagreeable sounds"
+    date: "2025-11-23"
+    color: "#C5E1A5"
+  
+  - word: "Camaraderie"
+    definition: "The quality of affording easy familiarity and sociability"
+    date: "2025-11-24"
+    color: "#FFCCBC"
+  
+  - word: "Capricious"
+    definition: "Determined by chance or impulse rather than by necessity"
+    date: "2025-11-25"
+    color: "#B2EBF2"
+  
+  - word: "Carte blanche"
+    definition: "Complete freedom or authority to act"
+    date: "2025-11-26"
+    color: "#CE93D8"
+  
+  - word: "Caustic"
+    definition: "Capable of destroying or eating away by chemical action"
+    date: "2025-11-27"
+    color: "#F8BBD9"
+  
+  - word: "Charisma"
+    definition: "Personal attractiveness that enables you to influence others"
+    date: "2025-11-28"
+    color: "#A5D6A7"
+  
+  - word: "Cloying"
+    definition: "Overly sweet"
+    date: "2025-11-29"
+    color: "#FFE0B2"
+  
+  - word: "Deja vu"
+    definition: "The experience of thinking a new situation already occurred"
+    date: "2025-11-30"
+    color: "#BBDEFB"
+  
+  - word: "Dichotomy"
+    definition: "A classification into two opposed parts or subclasses"
+    date: "2025-12-01"
+    color: "#F0B7CD"
+  
+  - word: "Dilettante"
+    definition: "An amateur engaging in an activity without serious intention"
+    date: "2025-12-02"
+    color: "#C8E6C9"
+  
+  - word: "Disheveled"
+    definition: "In disarray; extremely disorderly"
+    date: "2025-12-03"
+    color: "#FFCC80"
+  
+  - word: "Elan"
+    definition: "Enthusiastic and assured vigor and liveliness"
+    date: "2025-12-04"
+    color: "#B3E5FC"
+  
+  - word: "Ennui"
+    definition: "The feeling of being bored by something tedious"
+    date: "2025-12-05"
+    color: "#E1BEE7"
+  
+  - word: "Epitome"
+    definition: "A standard or typical example"
+    date: "2025-12-06"
+    color: "#DCEDC8"
+  
+  - word: "Equanimity"
+    definition: "Steadiness of mind under stress"
+    date: "2025-12-07"
+    color: "#FFCDD2"
+  
+  - word: "Equivocate"
+    definition: "Be deliberately ambiguous or unclear"
+    date: "2025-12-08"
+    color: "#B2DFDB"
+  
+  - word: "Esoteric"
+    definition: "Understandable only by an enlightened inner circle"
+    date: "2025-12-09"
+    color: "#F5C2E7"
+  
+  - word: "Euphemism"
+    definition: "An inoffensive expression substituted for an offensive one"
+    date: "2025-12-10"
+    color: "#C5CAE9"
+  
+  - word: "Fait accompli"
+    definition: "An irreversible accomplishment"
+    date: "2025-12-11"
+    color: "#D7CCC8"
+  
+  - word: "Fastidious"
+    definition: "Giving careful attention to detail"
+    date: "2025-12-12"
+    color: "#E1F5FE"
+  
+  - word: "Faux pas"
+    definition: "A socially awkward or tactless act"
+    date: "2025-12-13"
+    color: "#F3E5F5"
+  
+  - word: "Fiasco"
+    definition: "A complete failure or collapse"
+    date: "2025-12-14"
+    color: "#FFF9C4"
+  
+  - word: "Finagle"
+    definition: "Achieve something by means of trickery or devious methods"
+    date: "2025-12-15"
+    color: "#E8F5E9"
+  
+  - word: "Freudian slip"
+    definition: "A slip-up that (according to Sigmund Freud) results from the operation of unconscious wishes or conflicts and can reveal unconscious processes in normal healthy individuals"
+    date: "2025-12-16"
+    color: "#FCE4EC"
+  
+  - word: "Glib"
+    definition: "Artfully persuasive in speech"
+    date: "2025-12-17"
+    color: "#E0F2F1"
+  
+  - word: "Gregarious"
+    definition: "Temperamentally seeking and enjoying the company of others"
+    date: "2025-12-18"
+    color: "#F1F8E9"
+  
+  - word: "Harbinger"
+    definition: "Something indicating the approach of something or someone"
+    date: "2025-12-19"
+    color: "#EDE7F6"
+  
+  - word: "Hedonist"
+    definition: "Someone motivated by desires for sensual pleasures"
+    date: "2025-12-20"
+    color: "#FFF3E0"
+  
+  - word: "Heresy"
+    definition: "A belief that rejects the orthodox tenets of a religion"
+    date: "2025-12-21"
+    color: "#E3F2FD"
+  
+  - word: "Idiosyncratic"
+    definition: "Peculiar to the individual"
+    date: "2025-12-22"
+    color: "#F9FBE7"
+  
+  - word: "Idyllic"
+    definition: "Charmingly simple and serene"
+    date: "2025-12-23"
+    color: "#EFEBE9"
+  
+  - word: "Indelicate"
+    definition: "Slightly indecent, offensive, or improper"
+    date: "2025-12-24"
+    color: "#E8EAF6"
+  
+  - word: "Infinitesimal"
+    definition: "Immeasurably small"
+    date: "2025-12-25"
+    color: "#FFF8E1"
+  
+  - word: "Insidious"
+    definition: "Working or spreading in a hidden and usually injurious way"
+    date: "2025-12-26"
+    color: "#E0F7FA"
+  
+  - word: "Junket"
+    definition: "Dessert made of sweetened milk coagulated with rennet"
+    date: "2025-12-27"
+    color: "#F3E5F5"
+  
+  - word: "Kitsch"
+    definition: "Excessively garish or sentimental art"
+    date: "2025-12-28"
+    color: "#FFFDE7"
+  
+  - word: "Litany"
+    definition: "Any long and tedious address or recital"
+    date: "2025-12-29"
+    color: "#E1F5FE"
+  
+  - word: "Lurid"
+    definition: "Glaringly vivid and graphic; marked by sensationalism"
+    date: "2025-12-30"
+    color: "#F8BBD9"
+  
+  - word: "Machiavellian"
+    definition: "Of or relating to amoral or conniving political principles"
+    date: "2025-12-31"
+    color: "#DCEDC8"
+  
+  - word: "Malaise"
+    definition: "A general feeling of discomfort, uneasiness, or depression"
+    date: "2026-01-01"
+    color: "#FFE0B2"
+  
+  - word: "Malinger"
+    definition: "Avoid responsibilities and duties"
+    date: "2026-01-02"
+    color: "#BBDEFB"
+  
+  - word: "Mantra"
+    definition: "Literally a `sacred utterance' in Vedism"
+    date: "2026-01-03"
+    color: "#F0B7CD"
+  
+  - word: "Maudlin"
+    definition: "Effusively or insincerely emotional"
+    date: "2026-01-04"
+    color: "#C8E6C9"
+  
+  - word: "Mercenary"
+    definition: "A person hired to fight for another country than their own"
+    date: "2026-01-05"
+    color: "#FFCC80"
+  
+  - word: "Minimalist"
+    definition: "A conservative advocating only minor reforms in government"
+    date: "2026-01-06"
+    color: "#B3E5FC"
+  
+  - word: "Misnomer"
+    definition: "An incorrect or unsuitable name"
+    date: "2026-01-07"
+    color: "#E1BEE7"
+  
+  - word: "Narcissist"
+    definition: "Someone who is excessively self-centered"
+    date: "2026-01-08"
+    color: "#DCEDC8"
+  
+  - word: "Nirvana"
+    definition: "The beatitude that transcends the cycle of reincarnation"
+    date: "2026-01-09"
+    color: "#FFCDD2"
+  
+  - word: "Non sequitur"
+    definition: "A reply that has no relevance to what preceded it"
+    date: "2026-01-10"
+    color: "#B2DFDB"
+  
+  - word: "Nouveau-riche"
+    definition: "Characteristic of someone who has risen economically or socially but lacks the social skills appropriate for this new position"
+    date: "2026-01-11"
+    color: "#F5C2E7"
+  
+  - word: "Oblivion"
+    definition: "The state of being disregarded or forgotten"
+    date: "2026-01-12"
+    color: "#C5CAE9"
+  
+  - word: "Ogle"
+    definition: "Stare or look at, especially with amorous intentions"
+    date: "2026-01-13"
+    color: "#D7CCC8"
+  
+  - word: "Ostentatious"
+    definition: "Intended to attract notice and impress others"
+    date: "2026-01-14"
+    color: "#E1F5FE"
+  
+  - word: "Ostracize"
+    definition: "Expel from a community or group"
+    date: "2026-01-15"
+    color: "#F3E5F5"
+  
+  - word: "Panacea"
+    definition: "Hypothetical remedy for all ills or diseases"
+    date: "2026-01-16"
+    color: "#FFF9C4"
+  
+  - word: "Paradox"
+    definition: "A statement that contradicts itself"
+    date: "2026-01-17"
+    color: "#E8F5E9"
+  
+  - word: "Peevish"
+    definition: "Easily irritated or annoyed"
+    date: "2026-01-18"
+    color: "#FCE4EC"
+  
+  - word: "Perfunctory"
+    definition: "Hasty and without attention to detail; not thorough"
+    date: "2026-01-19"
+    color: "#E0F2F1"
+  
+  - word: "Philistine"
+    definition: "A person who is uninterested in intellectual pursuits"
+    date: "2026-01-20"
+    color: "#F1F8E9"
+  
+  - word: "Precocious"
+    definition: "Characterized by exceptionally early development"
+    date: "2026-01-21"
+    color: "#EDE7F6"
+  
+  - word: "Propriety"
+    definition: "Correct behavior"
+    date: "2026-01-22"
+    color: "#FFF3E0"
+  
+  - word: "Quid pro quo"
+    definition: "Something for something"
+    date: "2026-01-23"
+    color: "#E3F2FD"
+  
+  - word: "Quintessential"
+    definition: "Representing the perfect example of a class or quality"
+    date: "2026-01-24"
+    color: "#F9FBE7"
+  
+  - word: "Red herring"
+    definition: "Diversion intended to distract attention from the main issue"
+    date: "2026-01-25"
+    color: "#EFEBE9"
+  
+  - word: "Revel"
+    definition: "Take delight in"
+    date: "2026-01-26"
+    color: "#E8EAF6"
+  
+  - word: "Rhetoric"
+    definition: "Study of the technique for using language effectively"
+    date: "2026-01-27"
+    color: "#FFF8E1"
+  
+  - word: "Scintillating"
+    definition: "Having brief brilliant points or flashes of light"
+    date: "2026-01-28"
+    color: "#E0F7FA"
+  
+  - word: "Spartan"
+    definition: "Unsparing and uncompromising in discipline or judgment"
+    date: "2026-01-29"
+    color: "#F3E5F5"
+  
+  - word: "Stigma"
+    definition: "A symbol of disgrace or infamy"
+    date: "2026-01-30"
+    color: "#FFFDE7"
+  
+  - word: "Stoic"
+    definition: "Seeming unaffected by pleasure or pain; impassive"
+    date: "2026-01-31"
+    color: "#E1F5FE"
+  
+  - word: "Suave"
+    definition: "Having a sophisticated charm"
+    date: "2026-02-01"
+    color: "#F8BBD9"
+  
+  - word: "Svengali"
+    definition: "Someone (usually maleficent) who tries to persuade or force another person to do his bidding"
+    date: "2026-02-02"
+    color: "#DCEDC8"
+  
+  - word: "Sycophant"
+    definition: "A person who tries to please someone to gain an advantage"
+    date: "2026-02-03"
+    color: "#FFE0B2"
+  
+  - word: "Teetotaler"
+    definition: "A total abstainer"
+    date: "2026-02-04"
+    color: "#BBDEFB"
+  
+  - word: "Tete-a-tete"
+    definition: "A private conversation between two people"
+    date: "2026-02-05"
+    color: "#F0B7CD"
+  
+  - word: "Tirade"
+    definition: "A speech of violent denunciation"
+    date: "2026-02-06"
+    color: "#C8E6C9"
+  
+  - word: "Tryst"
+    definition: "A secret rendezvous, especially between lovers"
+    date: "2026-02-07"
+    color: "#FFCC80"
+  
+  - word: "Ubiquitous"
+    definition: "Being present everywhere at once"
+    date: "2026-02-08"
+    color: "#B3E5FC"
+  
+  - word: "Unrequited"
+    definition: "Not returned in kind"
+    date: "2026-02-09"
+    color: "#E1BEE7"
+  
+  - word: "Untenable"
+    definition: "Incapable of being defended or justified"
+    date: "2026-02-10"
+    color: "#DCEDC8"
+  
+  - word: "Vicarious"
+    definition: "Experienced at secondhand"
+    date: "2026-02-11"
+    color: "#FFCDD2"
+  
+  - word: "Vile"
+    definition: "Morally reprehensible"
+    date: "2026-02-12"
+    color: "#B2DFDB"
+  
+  - word: "Waft"
+    definition: "A long flag; often tapering"
+    date: "2026-02-13"
+    color: "#F5C2E7"
+  
+  - word: "White elephant"
+    definition: "A valuable possession whose upkeep is excessively expensive"
+    date: "2026-02-14"
+    color: "#C5CAE9"
+  
+  - word: "Zealous"
+    definition: "Marked by active interest and enthusiasm"
+    date: "2026-02-15"
+    color: "#D7CCC8"
